@@ -1,8 +1,9 @@
 # resume generator   
 
 <p align="center">
-  < img src="./resume_logo.png" alt="resume generator logo"/>
-</p >
+  <img src="resume_logo.png" alt="resume generator logo"/>
+</p>
+
 
 - 在马上毕业之际，你是否有投递各种简历的需求？为了提高我们的效率和找到工作的可能性，我们必须节约时间！分秒必争！
 
